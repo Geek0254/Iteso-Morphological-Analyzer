@@ -4,10 +4,13 @@ aanyu,to be hungry,a-a-nyu,verb
 aapere,to be tired,a-a-pe-re,verb
 aayinga,to be thirsty,a-a-yi-nga,verb
 aayonge,to be confused,a-a-yo-nge,verb
+abaka,village,a-baka,noun
 abala,eye,a-bala,noun
 abali,eyes,a-bali,noun
 abari,to be beautiful,a-ba-ri,verb
+abe,farm,a-be,noun
 aben,to be big,a-be-n,verb
+abia,year,a-bia,noun
 abiri,to build,a-bi-ri,verb
 abiri,to be clever,a-bi-ri,verb
 abong,to be cold,a-bo-ng,verb
@@ -24,10 +27,20 @@ achieng,to be good,a-chie-ng,verb
 achira,to run,a-chi-ra,verb
 achuro,to be hot,a-chu-ro,verb
 acia,goat,aci-a,noun
+acia,goat,a-cia,noun
 aciko,to cook,a-ci-ko,verb
 aciye,mouth,a-ciye,noun
+aco,goat,a-co,noun
+acon,stomach,a-con,noun
+adau,tree,a-dau,noun
 ade,foods,ade,noun
+adera,mouth,a-dera,noun
+adera,river,a-dera,noun
+adi,fire,a-di,noun
+adi,sky,a-di,noun
 adie,path,a-die,noun
+adie,chair,a-die,noun
+adie,egg,a-die,noun
 adier,to be hungry,a-di-er,verb
 adier,to be short,a-di-er,verb
 adier,to be tired,a-di-er,verb
@@ -41,85 +54,289 @@ adier,to be red,a-di-er,verb
 adier,to be clever,a-di-er,verb
 adier,to be free,a-di-er,verb
 adier,to be beautiful,a-di-er,verb
+adina,goat,a-dina,noun
 adire,to be near,a-di-re,verb
+adit,hand,a-dit,noun
+aditok,ground,a-ditok,noun
+adok,ear,a-dok,noun
 adong,to be old,a-do-ng,verb
+adongo,moon,a-dongo,noun
+adoro,spear,a-doro,noun
+adu,day,a-du,noun
+aduku,salt,a-duku,noun
 aduma,chicken,a-duma,noun
+adur,tooth,a-dur,noun
+adye,bed,a-dye,noun
 aeyo,to come,a-e-yo,verb
 afuno,to cut,a-fu-no,verb
 agolo,to dance,a-go-lo,verb
+agule,knife,a-gule,noun
+aguti,hare,a-guti,noun
+aika,tail,a-ika,noun
+aikwe,cow,a-ikwe,noun
+aisa,road,a-isa,noun
 aitai,child,aitai,noun
+ajony,rabbit,a-jony,noun
 akala,to bite,a-ka-la,verb
 akamu,porridge,a-kamu,noun
+akane,fish,a-kane,noun
+akane,road,a-kane,noun
+akara,child,a-kara,noun
+akaro,child,a-karo,noun
 akat,water,a-kat,noun
+akat,fire,a-kat,noun
+akek,wood,a-kek,noun
 akele,goat,a-kele,noun
+akene,tree,a-kene,noun
 akeri,heads,a-keri,noun
+aket,ant,a-ket,noun
+aketa,hair,a-keta,noun
+aketa,head,a-keta,noun
 aki,to know,a-ki,verb
 akilo,to cry,a-ki-lo,verb
+akine,hair,a-kine,noun
+akiya,water,a-kiya,noun
+akokwo,child,a-kokwo,noun
 akol,to laugh,a-kol,verb
 akol,foot,a-kol,noun
 akoli,feet,a-koli,noun
 akolong,to talk,a-ko-long,verb
 akolwak,to be hungry,a-kol-wak,verb
+akoro,child,a-koro,noun
+akoro,bed,a-koro,noun
+akoro,pot,a-koro,noun
 akubi,legs,a-kubi,noun
+akukor,chair,a-kukor,noun
+akuku,grass,a-kuku,noun
+akul,elephant,a-kul,noun
+akuma,rat,a-kuma,noun
+akuni,tooth,a-kuni,noun
+akupir,nose,a-kupir,noun
+akusi,goat,a-kusi,noun
+akut,foot,a-kut,noun
 akwata,to hold,a-kwa-ta,verb
 akwin,to win,a-kwi-n,verb
 ala,to eat,a-la,verb
 alal,to cry,a-lal,verb
 alalwak,to be thirsty,a-lal-wak,verb
+ale,tongue,a-le,noun
+ale,water,a-le,noun
+ale,book,a-le,noun
+alewa,alcohol,a-lewa,noun
+alio,leg,a-lio,noun
+alit,hand,a-lit,noun
+alito,finger,a-lito,noun
 alok,to lie down,a-lo-k,verb
 alowa,to be tired,a-lo-wa,verb
 alu,to look,a-lu,verb
 aluka,to be happy,a-lu-ka,verb
 alwak,to be far,a-lwak,verb
+amala,hand,a-mala,noun
+amala,fish,a-mala,noun
 aman,to plant,a-ma-n,verb
+aman,bird,a-man,noun
+amani,cow,a-mani,noun
+amani,tree,a-mani,noun
 amara,snake,a-mara,noun
+ame,song,a-me,noun
+ame,river,a-me,noun
+amek,sand,a-mek,noun
+ameso,money,a-meso,noun
+ameyi,cow,a-meyi,noun
 ameyo,to die,a-me-yo,verb
+amia,chicken,a-mia,noun
+amia,moon,a-mia,noun
+amia,water,a-mia,noun
+amia,sand,a-mia,noun
+amia,fire,a-mia,noun
+amia,pot,a-mia,noun
+amia,knife,a-mia,noun
+amia,road,a-mia,noun
+amol,pot,a-mol,noun
+amon,knife,a-mon,noun
+amu,fish,a-mu,noun
+amua,house,a-mua,noun
+amuka,goat,a-muka,noun
+amuke,sand,a-muke,noun
+amuke,tree,a-muke,noun
+amuke,road,a-muke,noun
+amuke,knife,a-muke,noun
+amuke,pot,a-muke,noun
+amukon,cow,a-mukon,noun
+amuna,moon,a-muna,noun
+amuna,shirt,a-muna,noun
 amura,leopard,a-mura,noun
+amuroi,food,a-muroi,noun
 amuto,meat,a-muto,noun
 ango,to sleep,a-ngo,verb
 anyu,to drink,a-nyu,verb
+aokoi,moon,a-okoi,noun
 apa,goats,apa,noun
 apakwe,to be near,a-pa-kwe,verb
 apere,to run away,a-pe-re,verb
 apingo,to run,a-pi-ngo,verb
 aputi,basket,a-puti,noun
+aradit,mirror,a-radit,noun
 arak,to fight,a-rak,verb
+arakisi,chicken,a-rakisi,noun
+arakisi,goat,a-rakisi,noun
 arawak,to be free,a-ra-wak,verb
+arikon,water,a-rikon,noun
+arikon,knife,a-rikon,noun
+arikon,pot,a-rikon,noun
+arikon,road,a-rikon,noun
+arikon,tree,a-rikon,noun
+arikon,sky,a-rikon,noun
+arit,knife,a-rit,noun
+ariya,road,a-riya,noun
+arot,fire,a-rot,noun
+arung,river,a-rung,noun
+arur,hand,a-rur,noun
+asa,fire,a-sa,noun
 ase,footprint,a-se,noun
+ase,head,a-se,noun
+ase,water,a-se,noun
+ase,pot,a-se,noun
+ase,bone,a-se,noun
+ase,fire,a-se,noun
 asei,footprints,a-sei,noun
+asei,hand,a-sei,noun
+asek,stick,a-sek,noun
+asek,bone,a-sek,noun
+asek,ant,a-sek,noun
+asek,tree,a-sek,noun
+asek,sky,a-sek,noun
+asek,knife,a-sek,noun
+asek,pot,a-sek,noun
+aseko,roof,a-seko,noun
+aseko,sky,a-seko,noun
+aseko,tree,a-seko,noun
+aseko,pot,a-seko,noun
+aseko,ant,a-seko,noun
+aseko,fire,a-seko,noun
+aseko,knife,a-seko,noun
+asere,road,a-sere,noun
+ases,road,a-ses,noun
 asi,noses,asi,noun
+asilu,tree,a-silu,noun
+asim,spoon,a-sim,noun
+asio,chicken,a-sio,noun
+asio,egg,a-sio,noun
+asio,river,a-sio,noun
+asio,moon,a-sio,noun
+asio,knife,a-sio,noun
+asio,road,a-sio,noun
+asio,tree,a-sio,noun
+asio,ant,a-sio,noun
+asio,pot,a-sio,noun
+asiru,fruit,a-siru,noun
+asue,tree,a-sue,noun
+asue,road,a-sue,noun
+asue,pot,a-sue,noun
+asue,water,a-sue,noun
+asue,knife,a-sue,noun
+asue,ant,a-sue,noun
+asue,sky,a-sue,noun
+asukor,goat,a-sukor,noun
 asure,pig,a-sure,noun
+asutin,spoon,a-sutin,noun
+atabo,river,a-tabo,noun
+ataboi,chair,a-taboi,noun
+atal,village,a-tal,noun
 atam,to be able,a-ta-m,verb
+atat,tree,a-tat,noun
+atat,cow,a-tat,noun
+ataya,dance,a-taya,noun
+atel,cow,a-tel,noun
+atem,sand,a-tem,noun
+ateso,Teso,a-teso,noun
+ateso,language,a-teso,noun
+atet,pot,a-tet,noun
+ateta,bed,a-teta,noun
+ati,foot,a-ti,noun
+atia,moon,a-tia,noun
+atia,knife,a-tia,noun
+atia,pot,a-tia,noun
+atia,ant,a-tia,noun
+atia,fire,a-tia,noun
+atia,bone,a-tia,noun
+atia,water,a-tia,noun
+atia,sky,a-tia,noun
+atie,tree,a-tie,noun
+atie,ant,a-tie,noun
+atie,fire,a-tie,noun
+atie,pot,a-tie,noun
+atie,sky,a-tie,noun
+atie,knife,a-tie,noun
+atii,hunger,a-tii,noun
 atim,to be able,a-ti-m,verb
+atin,knife,a-tin,noun
+atipa,river,a-tipa,noun
+atir,child,a-tir,noun
+atir,fish,a-tir,noun
+atir,moon,a-tir,noun
 atira,banana,a-tira,noun
 atiri,banana,a-tiri,noun
 ato,roads,a-to,noun
+atol,knife,a-tol,noun
+atua,foot,a-tua,noun
 atum,to be strong,a-tu-m,verb
+atworo,sand,a-tworo,noun
 awin,to be happy,a-wi-n,verb
+ayele,chair,a-yele,noun
 cak,to give birth,ca-k,verb
 chepi,to be short,che-pi,adjective
 ebaro,cows,e-baro,noun
+ebei,knife,e-bei,noun
+eberu,chair,e-beru,noun
 echera,lake,e-chera,noun
 ede,food,e-de,noun
 edeke,house,e-deke,noun
 edekei,houses,e-deke-i,noun
 edo,spear,e-do,noun
+edonga,spoon,e-donga,noun
+eikota,shirt,e-ikota,noun
+eila,tree,e-ila,noun
+eitam,plate,e-itam,noun
 eka,house,e-ka,noun
 ekabo,chair,e-kabo,noun
 ekaboi,chairs,e-kaboi,noun
 ekadeli,mat,e-kadeli,noun
+ekang,stick,e-kang,noun
 ekeme,stick,e-keme,noun
 ekere,stone,e-kere,noun
 ekeri,hill,e-keri,noun
 ekeri,forest,e-keri,noun
+ekeri,knife,e-keri,noun
+ekikopo,cloth,e-kikopo,noun
 ekimu,finger,e-kimu,noun
 ekimui,fingers,e-kimui,noun
+ekine,book,e-kine,noun
+ekira,pot,e-kira,noun
+ekiro,house,e-kiro,noun
+ekisa,fish,e-kisa,noun
 ekitaai,books,e-kitaai,noun
 ekitai,book,e-kitai,noun
+ekitok,egg,e-kitok,noun
 ekol,to be big,e-kol,adjective
+ekol,egg,e-kol,noun
 ekoli,hands,e-koli,noun
 ekolu,hand,e-kolu,noun
+ekom,fire,e-kom,noun
+ekon,tree,e-kon,noun
+ekone,road,e-kone,noun
+ekone,sky,e-kone,noun
+ekone,fire,e-kone,noun
+ekone,pot,e-kone,noun
+ekone,bone,e-kone,noun
+ekone,water,e-kone,noun
+ekong,egg,e-kong,noun
+ekong,knife,e-kong,noun
 ekoni,antelope,e-koni,noun
+ekop,leaf,e-kop,noun
+ekopir,chair,e-kopir,noun
+ekopit,root,e-kopit,noun
+ekoto,neck,e-koto,noun
 ekube,leg,e-kube,noun
 ekujo,plate,e-kujo,noun
 ekululu,spider,e-kulu-lu,noun
@@ -127,14 +344,30 @@ ekumi,ear,e-kumi,noun
 ekumi,ears,e-kumi,noun
 ekumoi,ear,e-kumoi,noun
 ekupu,stream,e-kupu,noun
+ekuya,road,e-kuya,noun
+ekwa,road,e-kwa,noun
+ekwan,hair,e-kwan,noun
+ekwan,water,e-kwan,noun
+ekwan,tree,e-kwan,noun
+ekwan,sand,e-kwan,noun
+ekwan,pot,e-kwan,noun
+ekwang,road,e-kwang,noun
 ekyeri,chair,e-kyeri,noun
 elicho,mountain,e-licho,noun
 elongo,hearts,e-longo,noun
 elungo,heart,e-lungo,noun
+emabere,shoe,e-mabere,noun
+emarach,spear,e-marach,noun
+emarit,stone,e-marit,noun
+emek,leg,e-mek,noun
+emera,work,e-mera,noun
 emere,market,e-mere,noun
 emerei,markets,e-mere-i,noun
+emeso,salt,e-meso,noun
 emia,ant,e-mia,noun
+emir,book,e-mir,noun
 emujong,goat pen,e-mu-jong,noun
+emura,work,e-mura,noun
 ena,to be good,e-na,adjective
 ena,person,e-na,noun
 enyanga,moon,enya-nga,noun
@@ -143,6 +376,10 @@ enyi,waters,enyi,noun
 enyiru,water,enyi-ru,noun
 enyoru,sun,enyo-ru,noun
 epe,tree,e-pe,noun
+epei,tree,e-pei,noun
+erere,book,e-rere,noun
+eri,hand,e-ri,noun
+erite,bone,e-rite,noun
 esi,nose,e-si,noun
 esien,elephant,e-sien,noun
 esiro,road,e-siro,noun
@@ -154,21 +391,68 @@ etambo,drum,e-tambo,noun
 etambo,spear,e-tambo,noun
 etane,grass,e-tane,noun
 ete,to be bad,e-te,adjective
+ete,fire,e-te,noun
+etil,river,e-til,noun
+etim,sand,e-tim,noun
+etir,tree,e-tir,noun
+etit,year,e-tit,noun
+etiyo,root,e-tiyo,noun
 eto,road,e-to,noun
+eto,moon,e-to,noun
 etoro,stream,e-toro,noun
+etum,money,e-tum,noun
+etye,root,e-tye,noun
 ewaro,cow,e-waro,noun
+eya,stone,e-ya,noun
+eyara,market,e-yara,noun
+eyera,market,e-yera,noun
+eyero,village,e-yero,noun
+eyin,year,e-yin,noun
+eyin,fire,e-yin,noun
+eyo,sun,e-yo,noun
+eyon,hat,e-yon,noun
+eyubu,beer,e-yubu,noun
+ikama,woman,i-kama,noun
+ikan,hand,i-kan,noun
 iker,head,iker,noun
+ikeri,head,i-keri,noun
+iket,food,i-ket,noun
 iketo,spear,i-keto,noun
+ikir,knife,i-kir,noun
+ikiru,cow,i-kiru,noun
+ikit,ground,i-kit,noun
+ikuakua,skirt,i-kuakua,noun
+ikutu,tree,i-kutu,noun
+imal,snake,i-mal,noun
 imuto,meats,i-muto,noun
 ingi,fire,ingi,noun
 ipe,trees,ipe,noun
 ita,thunder,ita,noun
+itai,tooth,i-tai,noun
+ital,house,i-tal,noun
+itel,year,i-tel,noun
+itesa,market,i-tesa,noun
 iteso,teso person,i-teso,noun
 iteso,teso language,i-teso,noun
+itor,field,i-tor,noun
+iwan,cloth,i-wan,noun
+iwan,pot,i-wan,noun
 iwe,to be white,i-we,adjective
+iweko,shirt,i-weko,noun
+iwen,pot,i-wen,noun
+iwen,spoon,i-wen,noun
+iweyo,paper,i-weyo,noun
+iweyo,book,i-weyo,noun
+iwi,sand,i-wi,noun
+iwon,stick,i-won,noun
+iyangi,sun,i-yangi,noun
 iye,dog,i-ye,noun
 iye,fires,iye,noun
+iye,fire,iye,noun
+iyesa,cow,i-yesa,noun
 iyeta,forest,i-yeta,noun
+iyo,road,iyo,noun
+iyola,moon,i-yola,noun
 ka,man,ka,noun
 kabei,to be black,ka-be-i,adjective
 kala,to be red,ka-la,adjective
@@ -185,30 +469,201 @@ mekon,to be thin,me-ko-n,adjective
 moro,to be fat,mo-ro,adjective
 na,meat,na,noun
 nai,to be sweet,na-i,adjective
+obaa,wife,o-baa,noun
+obei,knife,o-bei,noun
+obie,rat,o-bie,noun
 obii,hoe,o-bii,noun
 obito,knife,obi-to,noun
+obiya,water,o-biya,noun
+obone,banana,o-bone,noun
+oburi,child,o-buri,noun
+odere,house,o-dere,noun
+odit,river,o-dit,noun
+odongo,spear,o-dongo,noun
+odora,pot,o-dora,noun
+oduma,chicken,o-duma,noun
+ogur,stick,o-gur,noun
+oguru,tree,o-guru,noun
+ojinga,tree,o-jinga,noun
+oka,bed,o-ka,noun
+okaa,cow,o-kaa,noun
+okang,hair,o-kang,noun
+okany,sand,o-kany,noun
+okar,cow,o-kar,noun
+okar,ant,o-kar,noun
+okaro,coin,o-karo,noun
+okati,horse,o-kati,noun
 okelo,to be beautiful,o-ke-lo,adjective
 okelo,to be clever,o-ke-lo,adjective
+okesi,moon,o-kesi,noun
+oketi,house,o-keti,noun
+okeyo,rat,o-keyo,noun
+okidi,bed,o-kidi,noun
+okidi,grass,o-kidi,noun
+okidi,tree,o-kidi,noun
+okit,stone,o-kit,noun
+okitam,mountain,o-kitam,noun
+okitir,rock,o-kitir,noun
 okito,lion,o-kito,noun
+okob,moon,o-kob,noun
+okodo,fire,o-kodo,noun
+okodo,ant,o-kodo,noun
+okoi,stick,o-koi,noun
+okoka,chicken,o-koka,noun
+okoko,pot,o-koko,noun
+okokor,cow,o-kokor,noun
+okokwo,child,o-kokwo,noun
+okole,road,o-kole,noun
+okolo,finger,o-kolo,noun
+okolok,finger,o-kolok,noun
+okone,stone,o-kone,noun
+okonjo,rat,o-konjo,noun
+okono,snake,o-kono,noun
+okor,road,o-kor,noun
+okor,finger,o-kor,noun
+okor,bone,o-kor,noun
+okor,bed,o-kor,noun
+okor,pot,o-kor,noun
+okor,knife,o-kor,noun
+okor,sky,o-kor,noun
+okor,tree,o-kor,noun
+okori,cow,o-kori,noun
+okosin,egg,o-kosin,noun
+okub,rope,o-kub,noun
+okuku,cock,o-kuku,noun
+okukwi,cow,o-kukwi,noun
 okula,elephant,o-kula,noun
+okule,ant,o-kule,noun
+okunyi,water,o-kunyi,noun
+okure,cow,o-kure,noun
+okut,skin,o-kut,noun
+okutir,stone,o-kutir,noun
+okuto,bone,o-kuto,noun
+okuto,tree,o-kuto,noun
+okuyi,fire,o-kuyi,noun
 okwa,to eat,o-kwa,verb
+okwak,road,o-kwak,noun
+okwak,tree,o-kwak,noun
+okwak,pot,o-kwak,noun
+okwak,knife,o-kwak,noun
+okwakwa,finger,o-kwakwa,noun
+okwanyi,cow,o-kwanyi,noun
+okware,tree,o-kware,noun
+okwari,moon,o-kwari,noun
 okwe,to drink,o-kwe,verb
 okya,to see,o-kya,verb
+olere,name,o-lere,noun
+olitok,tail,o-litok,noun
+olok,bird,o-lok,noun
+olungu,beer,o-lungu,noun
 olut,to walk,o-lut,verb
 olwal,to be cold,o-lwal,adjective
 olwe,to sleep,o-lwe,verb
+omal,drum,o-mal,noun
 omera,friend,omera,noun
+omera,friend,o-mera,noun
+omera,person,o-mera,noun
+omera,sky,o-mera,noun
 omeri,friends,omeri,noun
+omeri,friend,o-meri,noun
+ometa,child,o-meta,noun
+omodi,boy,o-modi,noun
+omodi,river,o-modi,noun
+omon,knife,o-mon,noun
+omul,fish,o-mul,noun
+omuri,cow,o-muri,noun
+omurisi,goat,o-murisi,noun
+omuti,cow,o-muti,noun
+omutu,cow,o-mutu,noun
+omwanyi,woman,o-mwanyi,noun
 ona,to sit,o-na,verb
 one,to be hot,o-ne,adjective
+ongi,eye,o-ngi,noun
+ongoro,bed,o-ngoro,noun
+ongoro,dog,o-ngoro,noun
+ongur,ear,o-ngur,noun
+onye,fire,o-nye,noun
+ope,child,o-pe,noun
+opia,head,o-pia,noun
+opii,feather,o-pii,noun
+opol,egg,o-pol,noun
+oporo,fire,o-poro,noun
+oraiti,bed,o-rait-i,noun
+orate,bed,o-rate,noun
+oren,tree,o-ren,noun
+orere,bed,o-rere,noun
 oricha,star,o-ri-cha,noun
+oroit,road,o-roit,noun
+orok,finger,o-rok,noun
+oryenyi,friend,o-ryenyi,noun
+osa,water,o-sa,noun
 osera,market,o-sera,noun
+oseri,river,o-seri,noun
+oseru,fruit,o-seru,noun
+osungu,chicken,o-sungu,noun
+osusa,water,o-susa,noun
+ota,knife,o-ta,noun
+otaba,fruit,o-taba,noun
+otar,fire,o-tar,noun
+otar,sand,o-tar,noun
+otar,tree,o-tar,noun
+otar,ant,o-tar,noun
+ote,tree,o-te,noun
+oteko,fire,o-teko,noun
+oteko,road,o-teko,noun
+oteko,bed,o-teko,noun
+oteko,tree,o-teko,noun
+otere,house,o-tere,noun
+oteri,pot,o-teri,noun
+otero,tree,o-tero,noun
+oti,bird,o-ti,noun
+oti,sand,o-ti,noun
+oti,water,o-ti,noun
+oti,book,o-ti,noun
+otia,grass,o-tia,noun
+otia,river,o-tia,noun
+otia,road,o-tia,noun
+otia,ant,o-tia,noun
+otia,tree,o-tia,noun
+otia,fire,o-tia,noun
+otia,pot,o-tia,noun
+otia,water,o-tia,noun
+otik,hand,o-tik,noun
 otim,to be free,o-ti-m,adjective
+otim,father,o-tim,noun
+otim,ant,o-tim,noun
+otim,grass,o-tim,noun
+otim,tree,o-tim,noun
+otim,sky,o-tim,noun
+otim,pot,o-tim,noun
+otin,bed,o-tin,noun
+otino,ant,o-tino,noun
+otir,knife,o-tir,noun
+otir,tree,o-tir,noun
+otiru,dog,o-tiru,noun
+otit,pot,o-tit,noun
+oto,dog,o-to,noun
+otul,goat,o-tul,noun
+otule,rope,o-tule,noun
+otungu,hen,o-tungu,noun
+otur,fish,o-tur,noun
 otya,to give,o-tya,verb
+otyak,bird,o-tyak,noun
+owa,fire,o-wa,noun
+owa,sun,o-wa,noun
+owaga,man,o-waga,noun
 owo,to take,o-wo,verb
+owono,corn,o-wono,noun
+owonya,corn,o-wonya,noun
+owonyo,corn,o-wonyo,noun
+oyaa,mother,o-yaa,noun
+oyang,sky,o-yang,noun
 oyero,village,oye-ro,noun
+oyero,village,o-yero,noun
 oyeti,animal,oye-ti,noun
+oyiro,boy,o-yiro,noun
 oyo,to come,o-yo,verb
+oyura,book,o-yura,noun
 oywe,to be far,o-ywe,adjective
 oywe,to go,o-ywe,verb
 paka,to stand,pa-ka,verb
@@ -224,6 +679,7 @@ tu,to come together,tu,verb
 ura,to be quiet,u-ra,adjective
 urwa,to be strong,u-r-wa,adjective
 urya,to hear,u-rya,verb
+we,book,i-we,noun
 ye,to be,ye,verb
 yech,to be sick,ye-ch,adjective
 yekon,to be thin,ye-ko-n,adjective
